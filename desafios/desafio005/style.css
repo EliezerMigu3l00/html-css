@@ -7,7 +7,7 @@ body{
     background-image: linear-gradient(to right, #94CEF2, #6BA5F2);
 }
 main{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.822);
     border-radius: 10px;
     box-shadow: 5px 5px 15px #37557ca4;
     width: 600px;
@@ -31,5 +31,6 @@ a {
     text-decoration: none;
 }
 a:hover{
-    font-size: 107%;
+    font-size: 110%;
+    text-decoration: underline;
 }
